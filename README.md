@@ -53,12 +53,12 @@ I'm **Asra Hussain**, an accomplished ML/AI Engineer with expertise in cutting-e
 - **Web Search Wiki Agent / Research Assistant Tool**  
   Developed an advanced Python-based research assistant that harnesses the power of **LangChain** and **OpenAI's conversational models** to deliver structured, context-aware research responses. This tool integrates **DuckDuckGo search** and **Wikipedia APIs** to retrieve, summarize, and synthesize information in real time. It leverages state-of-the-art transformer architectures and retrieval-augmented generation, with an option to persist outputs to a text file.  
   Technologies used: Python, LangChain, OpenAI API, DuckDuckGo Search, Wikipedia API.  
-  [GitHub Link](https://github.com/asra020601/web-search-wiki-agent)
+  [GitHub Link](https://github.com/asra020601/web_search_wiki_agent)
 
 - **Tweet Generation**  
   Developed a generative AI system that fine-tunes transformer models using **Hugging Face libraries** to automatically generate creative tweet content. The system uses cutting-edge NLP techniques to understand context and produce high-quality text outputs.  
   Technologies used: Python, Hugging Face Transformers, OpenAI API.  
-  [GitHub Link](https://github.com/asra020601/tweet_generation)
+  [GitHub Link]()
 
 - **Music Generation**  
   Built an innovative deep learning system using **TensorFlow/Keras** to generate lyrical compositions and perform style transfer. This project leverages transformer models and advanced generative algorithms to produce unique musical outputs.  
