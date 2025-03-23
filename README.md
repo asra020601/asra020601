@@ -1,17 +1,17 @@
 ### Hey there! 👋
 
-I'm **Asra Hussain**, an accomplished ML/AI Engineer experienced in building scalable ML pipelines and deploying containerized solutions. I specialize in transforming complex datasets into actionable insights using modern machine learning techniques, robust MLOps practices, and cloud solutions.
+I'm **Asra Hussain**, an accomplished ML/AI Engineer with expertise in cutting-edge deep learning, transformer-based NLP, and scalable MLOps. I build robust, production-ready systems that transform complex datasets into actionable insights using state-of-the-art algorithms, cloud-native deployments, and advanced AI libraries.
 
 ---
 
 ### 🔥 What I Do
 
-- Architect and deploy **ML pipelines** using Python, TensorFlow, Scikit-learn, and PyTorch.
-- Build containerized solutions with **Docker** and orchestrate them using **Kubernetes**.
-- Develop RESTful APIs using **FastAPI, Django,** and **Flask**.
-- Perform advanced data analysis and visualization with **Power BI** and **Tableau**.
-- Automate workflows with **Jenkins** and **CI/CD pipelines**, managing version control with **Git**.
-- Leverage cloud platforms like **AWS** and **Azure** for production-ready deployments.
+- Design and deploy sophisticated **ML pipelines** powered by transformer architectures and large language models.
+- Implement containerized, cloud-native solutions using **Docker** and orchestrate them with **Kubernetes**.
+- Develop high-performance RESTful APIs with **FastAPI, Django,** and **Flask** for real-time inference.
+- Perform advanced data analytics and visualization leveraging **Power BI** and **Tableau**.
+- Automate end-to-end workflows via **CI/CD pipelines** with **Jenkins** and manage source code with **Git**.
+- Utilize leading cloud platforms like **AWS** and **Azure** to deliver scalable, production-grade applications.
 
 ---
 
@@ -50,16 +50,19 @@ I'm **Asra Hussain**, an accomplished ML/AI Engineer experienced in building sca
 
 ### ⭐ Featured Projects
 
-- **Tweet-Class**  
-  Sentiment analysis pipeline using Python, Transformer-based NLP, and Scikit-learn.  
-  [GitHub Link](https://github.com/asra020601/tweet-class)
+- **Web Search Wiki Agent / Research Assistant Tool**  
+  Developed an advanced Python-based research assistant that harnesses the power of **LangChain** and **OpenAI's conversational models** to deliver structured, context-aware research responses. This tool integrates **DuckDuckGo search** and **Wikipedia APIs** to retrieve, summarize, and synthesize information in real time. It leverages state-of-the-art transformer architectures and retrieval-augmented generation, with an option to persist outputs to a text file.  
+  Technologies used: Python, LangChain, OpenAI API, DuckDuckGo Search, Wikipedia API.  
+  [GitHub Link](https://github.com/asra020601/web-search-wiki-agent)
 
 - **Tweet Generation**  
-  Fine-tuned Transformer models using Python and Hugging Face libraries for automated tweet creation.  
+  Developed a generative AI system that fine-tunes transformer models using **Hugging Face libraries** to automatically generate creative tweet content. The system uses cutting-edge NLP techniques to understand context and produce high-quality text outputs.  
+  Technologies used: Python, Hugging Face Transformers, OpenAI API.  
   [GitHub Link](https://github.com/asra020601/tweet_generation)
 
 - **Music Generation**  
-  Transformer system built with Python and TensorFlow/Keras for generating lyrical compositions and style transfer.  
+  Built an innovative deep learning system using **TensorFlow/Keras** to generate lyrical compositions and perform style transfer. This project leverages transformer models and advanced generative algorithms to produce unique musical outputs.  
+  Technologies used: Python, TensorFlow, Keras, and advanced generative algorithms.  
   [GitHub Link](https://github.com/asra020601/music_generation)
 
 ---
