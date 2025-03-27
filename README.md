@@ -1,5 +1,3 @@
-### Hey there! 👋
-
 I'm **Asra Hussain**, an accomplished ML/AI Engineer with expertise in cutting-edge deep learning, transformer-based NLP, and scalable MLOps. I build robust, production-ready systems that transform complex datasets into actionable insights using state-of-the-art algorithms, cloud-native deployments, and advanced AI libraries.
 
 ---
