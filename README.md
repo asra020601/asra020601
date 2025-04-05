@@ -42,8 +42,7 @@
 
 <!-- GitHub Trophy  -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
-<!-- Custom Repo Badges -->
-![Repo Stars](https://img.shields.io/github/stars/asra020601/Agentic-AI-Neural-Logic-Engine?style=flat&logo=github)
+
   </tr>
 </table>
 
@@ -71,14 +70,6 @@ A hybrid RAG architecture combining **FAISS HNSW vector search**, **BM25Okapi ke
 A no-code AI tool that combines **LLM-powered web scraping**, **dynamic browser automation**, and **structured data summarization** into a user-friendly interface, enabling non-technical users to extract and analyze web content efficiently.
 
 **Technologies Used**: ScrapeGraphAI (LLMs + graph logic for structured data extraction), Hugging Face (Qwen2.5-72B-Instruct for AI-driven summarization), LangChain Community (context-aware pipelines), Gradio(no-code UI deployment), Playwright (dynamic browser automation), Python (backend processing), JSON/CSV (data formatting).  
-
----
-### 📊 GitHub Stats
-<!-- GitHub Contribution Graph -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asra020601&show_icons=true&theme=light&bg_color=FFFFFF)
-
-<!-- GitHub Trophy  -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
 
 ---
 ### 🌍 Connect With Me
