@@ -47,13 +47,13 @@ Developed an advanced Python-based research assistant that harnesses the power o
 ---
 
 ## RAG Vector LLM Powered FinQuery Engine  
-A hybrid RAG architecture combining FAISS HNSW vector search, BM25Okapi keyword ranking, and Finance2 transformer embeddings for semantic financial document analysis. Processes PDFs via PyMuPDF and AlphaVantage API, with LangChain text chunking and Groq Llama3-70B inference. Features GPU-accelerated embeddings, hierarchical FAISS-BM25 search, and real-time market data synthesis via FastAPI.  
+A hybrid RAG architecture combining **FAISS HNSW vector search**, **BM25Okapi keyword ranking**, and **Finance2 transformer embeddings** for semantic financial document analysis. Processes PDFs via **PyMuPDF** and **AlphaVantage API**, with **LangChain** text chunking and **Groq Llama3-70B** inference. Features GPU-accelerated embeddings, hierarchical **FAISS-BM25 search**, and real-time market data synthesis via **FastAPI**.  
 **Technologies used**: Python, FastAPI, PyMuPDF, FAISS, BM25Okapi, SentenceTransformers (Finance2 embeddings), Hugging Face Transformers, LangChain, Groq Llama3-70B, Alpha Vantage API, OpenAI API, RecursiveCharacterTextSplitter, NumPy, Torch, uvicorn, dotenv.  
 
 ---
 
 ## No-Code AI Web Scraper with Summarization  
-A no-code AI tool that combines LLM-powered web scraping, dynamic browser automation, and structured data summarization into a user-friendly interface, enabling non-technical users to extract and analyze web content efficiently.  
+A no-code AI tool that combines **LLM-powered web scraping**, **dynamic browser automation**, and **structured data summarization** into a user-friendly interface, enabling non-technical users to extract and analyze web content efficiently.
 **Technologies used**: ScrapeGraphAI (LLMs + graph logic for structured data extraction), Hugging Face (Qwen2.5-72B-Instruct for AI-driven summarization), LangChain Community (context-aware pipelines), Gradio (no-code UI deployment), Playwright (dynamic browser automation), Python (backend processing), JSON/CSV (data formatting).  
 
 ---
