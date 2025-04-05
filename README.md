@@ -2,10 +2,6 @@
 - Design and deploy sophisticated ML pipelines powered by transformer architectures and large language models, implement containerized, cloud-native solutions using Docker and Kubernetes, and develop high-performance RESTful APIs with FastAPI, Django, and Flask.
 - Perform advanced data analytics and visualization with Power BI and Tableau, automate end-to-end workflows via CI/CD pipelines using Jenkins and Git, and leverage AWS and Azure for scalable, production-grade applications.
 ---
-
-### 🛠️ Technologies & Tools
-
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -41,8 +37,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
-      <!-- GitHub Contribution Graph -->
-     ### 📊 GitHub Stats
+
 <!-- GitHub Contribution Graph -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asra020601&show_icons=true&theme=light&bg_color=FFFFFF)
 
