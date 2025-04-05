@@ -6,11 +6,12 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<!-- Programming Languages -->
+[<img align="left" alt="Python" width="40px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />][python]
+[<img align="left" alt="Java" width="40px" src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" />][java]
+[<img align="left" alt="R" width="40px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />][r]
+[<img align="left" alt="C++" width="40px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />][cplusplus]
+
   <br /><br />
   
   <!-- ML & Data Analysis -->
