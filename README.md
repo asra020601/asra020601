@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <br /><br />
+  
   <!-- ML & Data Analysis -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
   <br /><br />
+  
   <!-- MLOps & Web Frameworks -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -29,11 +31,11 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
   <br /><br />
+  
   <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
-
 ---
 
 ### ⭐ Projects
