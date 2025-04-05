@@ -7,38 +7,40 @@
     <td valign="top" width="50%">
       <h3>🛠️ Technologies & Tools</h3>
       <p align="center">
-### Languages and Tools:
+     ### 🛠️ Technologies & Tools + 📊 GitHub Stats
 
-<!-- Programming Languages -->
-[<img align="left" alt="Python" width="50px" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983accdee89f5.gif" />][python]
-[<img align="left" alt="Java" width="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.gif" />][java]
-[<img align="left" alt="R" width="50px" src="https://i.pinimg.com/originals/0b/72/c3/0b72c3e0ff2a9611f930e46a7351f87e.gif" />][r]
-[<img align="left" alt="C++" width="50px" src="https://i.pinimg.com/originals/a7/3c/f9/a73cf91ad1daed43bf219b0798e25adb.gif" />][cplusplus]
-
-<br /><br />
-
-<!-- ML & Data Analysis -->
-[<img align="left" alt="TensorFlow" width="50px" src="https://i.pinimg.com/originals/d5/34/df/d534df2323a1cc09430ebfdb440fb259.gif" />][tensorflow]
-[<img align="left" alt="PyTorch" width="50px" src="https://i.pinimg.com/originals/ee/0f/4c/ee0f4c892807fd7b889d40a5d0edc371.gif" />][pytorch]
-[<img align="left" alt="SQL" width="50px" src="https://i.pinimg.com/originals/b7/dc/4f/b7dc4f180a4727d69e5dcfdf07c5fe6d.gif" />][sql]
-[<img align="left" alt="Power BI" width="50px" src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" />][powerbi]
-
-<br /><br />
-
-<!-- MLOps & Web Frameworks -->
-[<img align="left" alt="Docker" width="50px" src="https://i.pinimg.com/originals/f4/79/83/f47983d31da8eeee9e21cf28145b1d92.gif" />][docker]
-[<img align="left" alt="Kubernetes" width="50px" src="https://i.pinimg.com/originals/e3/b9/fe/e3b9feab6b0bd54cd86c3d99661ae7d1.gif" />][kubernetes]
-[<img align="left" alt="Git" width="50px" src="https://i.pinimg.com/originals/17/83/3b/17833b5f73bc199f0bca866ca23b71b2.gif" />][git]
-[<img align="left" alt="Django" width="50px" src="https://i.pinimg.com/originals/c2/07/aa/c207aa8fe5bf3ba804abeae66d5a3aff.gif" />][django]
-
-<br /><br />
-
-<!-- Cloud Platforms -->
-[<img align="left" alt="AWS" width="50px" src="https://i.pinimg.com/originals/9b/10/db/9b10dba1755b9d239fc926718469a922.gif" />][aws]
-[<img align="left" alt="Azure" width="50px" src="https://i.pinimg.com/originals/69/a9/17/69a917a2417d9dbc0196eecaee7cb328.gif" />][azure]
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🛠️ Technologies & Tools</h3>
+      <p align="center">
+        <!-- Programming Languages -->
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
+        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /> 
+        <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <br /><br />
+        <!-- ML & Data Analysis -->
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+        <br /><br />
+        <!-- MLOps & Web Frameworks -->
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+        <br /><br />
+        <!-- Cloud Platforms -->
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
       </p>
-    </td>
     <td valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
 
