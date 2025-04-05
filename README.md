@@ -44,9 +44,10 @@
 <!-- GitHub Trophy  -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
 
-    </td>
   </tr>
 </table>
+----
+
 ### ⭐ Projects
 
 ## AgentAI Neural Logic Engine  
