@@ -15,10 +15,11 @@
       <h3>🛠️ Technologies & Tools</h3>
       <p align="center">
         <!-- Programming Languages -->
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /> 
-        <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+[<img align="left" alt="Python" width="50px" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983accdee89f5.gif" />][python]
+[<img align="left" alt="Java" width="50px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.gif" />][java]
+[<img align="left" alt="R" width="50px" src="https://i.pinimg.com/originals/0b/72/c3/0b72c3e0ff2a9611f930e46a7351f87e.gif" />][r]
+[<img align="left" alt="C++" width="50px" src="https://i.pinimg.com/originals/a7/3c/f9/a73cf91ad1daed43bf219b0798e25adb.gif" />][cplusplus]
+
         <br /><br />
         <!-- ML & Data Analysis -->
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
