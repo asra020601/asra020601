@@ -1,16 +1,6 @@
-I'm **Asra Hussain**, an accomplished ML/AI Engineer with expertise in cutting-edge deep learning, transformer-based NLP, and scalable MLOps. I build robust, production-ready systems that transform complex datasets into actionable insights using state-of-the-art algorithms, cloud-native deployments, and advanced AI libraries.
-
----
-
 ### 🔥 What I Do
-
-- Design and deploy sophisticated **ML pipelines** powered by transformer architectures and large language models.
-- Implement containerized, cloud-native solutions using **Docker** and orchestrate them with **Kubernetes**.
-- Develop high-performance RESTful APIs with **FastAPI, Django,** and **Flask** for real-time inference.
-- Perform advanced data analytics and visualization leveraging **Power BI** and **Tableau**.
-- Automate end-to-end workflows via **CI/CD pipelines** with **Jenkins** and manage source code with **Git**.
-- Utilize leading cloud platforms like **AWS** and **Azure** to deliver scalable, production-grade applications.
-
+- Design and deploy sophisticated ML pipelines powered by transformer architectures and large language models, implement containerized, cloud-native solutions using Docker and Kubernetes, and develop high-performance RESTful APIs with FastAPI, Django, and Flask.
+- Perform advanced data analytics and visualization with Power BI and Tableau, automate end-to-end workflows via CI/CD pipelines using Jenkins and Git, and leverage AWS and Azure for scalable, production-grade applications.
 ---
 
 ### 🛠️ Technologies & Tools
@@ -48,20 +38,20 @@ I'm **Asra Hussain**, an accomplished ML/AI Engineer with expertise in cutting-e
 
 ### ⭐ Featured Projects
 
-- **Web Search Wiki Agent / Research Assistant Tool**  
+- **AgentAI Neural Logic Engine**  
   Developed an advanced Python-based research assistant that harnesses the power of **LangChain** and **OpenAI's conversational models** to deliver structured, context-aware research responses. This tool integrates **DuckDuckGo search** and **Wikipedia APIs** to retrieve, summarize, and synthesize information in real time. It leverages state-of-the-art transformer architectures and retrieval-augmented generation, with an option to persist outputs to a text file.  
   Technologies used: Python, LangChain, OpenAI API, DuckDuckGo Search, Wikipedia API.  
-  [GitHub Link](https://github.com/asra020601/web_search_wiki_agent)
+  [GitHub Link](https://github.com/asra020601/Agentic-AI-Neural-Logic-Engine)
 
-- **Tweet Generation**  
-  Developed a generative AI system that fine-tunes transformer models using **Hugging Face libraries** to automatically generate creative tweet content. The system uses cutting-edge NLP techniques to understand context and produce high-quality text outputs.  
-  Technologies used: Python, Hugging Face Transformers, OpenAI API.  
-  [GitHub Link]()
+- **RAG Vector LLM Powered FinQuery Engine**  
+  A hybrid RAG architecture combining FAISS HNSW vector search, BM25Okapi keyword ranking, and Finance2 transformer embeddings for semantic financial document analysis. Processes PDFs via PyMuPDF and AlphaVantage 
+API, with LangChain text chunking and Groq Llama3-70B inference. Features GPU-accelerated embeddings, hierarchical FAISS-BM25 search, and real-time market data synthesis via FastAPI.
+  Technologies used: Python, FastAPI, PyMuPDF, FAISS , BM25Okapi, SentenceTransformers (Finance2 embeddings), Hugging Face Transformers, LangChain, Groq Llama3-70B, Alpha Vantage API, OpenAI, API, RecursiveCharacterTextSplitter, NumPy, Torch, uvicorn, dotenv 
 
-- **Music Generation**  
-  Built an innovative deep learning system using **TensorFlow/Keras** to generate lyrical compositions and perform style transfer. This project leverages transformer models and advanced generative algorithms to produce unique musical outputs.  
-  Technologies used: Python, TensorFlow, Keras, and advanced generative algorithms.  
-  [GitHub Link](https://github.com/asra020601/music_generation)
+
+- **No-Code AI Web Scraper with Summarization**  
+A no-code AI tool that combines LLM-powered web scraping, dynamic browser automation, and structured data summarization into a user-friendly interface, enabling non-technical users to extract and analyze web content efficiently
+Technologies Used: ScrapeGraphAI (LLMs + graph logic for structured data extraction), Hugging Face (Qwen2.5-72B-Instruct for AI-driven summarization), LangChain Community (context-aware pipelines), Gradio(no code UI deployment ), Playwright (dynamic browser automation), Python (backend processing), JSON/CSV (data formatting).
 
 ---
 
