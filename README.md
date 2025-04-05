@@ -4,7 +4,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-### 🛠️ Technologies & Tools + 📊 GitHub Stats
+
 
 <table>
   <tr>
@@ -42,9 +42,13 @@
     <td valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
       <!-- GitHub Contribution Graph -->
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asra020601&show_icons=true&theme=light&bg_color=FFFFFF)
-      <!-- GitHub Trophy  -->
-      ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
+     ### 📊 GitHub Stats
+<!-- GitHub Contribution Graph -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asra020601&show_icons=true&theme=light&bg_color=FFFFFF)
+
+<!-- GitHub Trophy  -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
+
     </td>
   </tr>
 </table>
