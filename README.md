@@ -42,9 +42,8 @@
 
 <!-- GitHub Trophy  -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=award1,award2,award3)
-
-<!-- GitHub Trophy  -->
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=asra020601&theme=light&bg_color=FFFFFF&trophies=contributor,streak)
+<!-- Custom Repo Badges -->
+![Repo Stars](https://img.shields.io/github/stars/asra020601/Agentic-AI-Neural-Logic-Engine?style=flat&logo=github)
   </tr>
 </table>
 
