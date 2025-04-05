@@ -6,57 +6,34 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-### Languages and Tools:
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /> 
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br /><br />
+  <!-- ML & Data Analysis -->
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <br /><br />
+  <!-- MLOps & Web Frameworks -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <br /><br />
+  <!-- Cloud Platforms -->
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
 
-<!-- Programming Languages -->
-[<img align="left" alt="Python" width="40px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />][python]
-[<img align="left" alt="Java" width="40px" src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" />][java]
-[<img align="left" alt="R" width="40px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />][r]
-[<img align="left" alt="C++" width="40px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />][cplusplus]
-
-<br /><br />
-
-<!-- ML & Data Analysis -->
-[<img align="left" alt="TensorFlow" width="40px" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" />][tensorflow]
-[<img align="left" alt="PyTorch" width="40px" src="https://media.giphy.com/media/kH6CbYWWxSy4RFJCAf/giphy.gif" />][pytorch]
-[<img align="left" alt="SQL" width="40px" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" />][sql]
-[<img align="left" alt="Power BI" width="40px" src="https://media.giphy.com/media/PgFOMgBlgPYsM/giphy.gif" />][powerbi]
-
-<br /><br />
-
-<!-- MLOps & Web Frameworks -->
-[<img align="left" alt="Docker" width="40px" src="https://media.giphy.com/media/kH6CbYWWxSy4RFJCAf/giphy.gif" />][docker]
-[<img align="left" alt="Kubernetes" width="40px" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />][kubernetes]
-[<img align="left" alt="Git" width="40px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />][git]
-[<img align="left" alt="Django" width="40px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />][django]
-
-<br /><br />
-
-<!-- Cloud Platforms -->
-[<img align="left" alt="AWS" width="40px" src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" />][aws]
-[<img align="left" alt="Azure" width="40px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />][azure]
-
-<!-- Link Definitions -->
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
-<!-- Technology Link Definitions -->
-[python]: https://www.python.org/
-[java]: https://www.java.com/
-[r]: https://www.r-project.org/
-[cplusplus]: https://isocpp.org/
-[tensorflow]: https://www.tensorflow.org/
-[pytorch]: https://pytorch.org/
-[sql]: https://www.postgresql.org/
-[powerbi]: https://powerbi.microsoft.com/
-[docker]: https://www.docker.com/
-[kubernetes]: https://kubernetes.io/
-[git]: https://git-scm.com/
-[django]: https://www.djangoproject.com/
-[aws]: https://aws.amazon.com/
-[azure]: https://azure.microsoft.com/
----
 ### ⭐ Projects
 
 ## AgentAI Neural Logic Engine  
