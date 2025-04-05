@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
----
 
+---
 ### ⭐ Projects
 
 ## AgentAI Neural Logic Engine  
