@@ -40,6 +40,7 @@
 
 ## AgentAI Neural Logic Engine  
 Developed an advanced Python-based research assistant that harnesses the power of **LangChain** and **OpenAI's conversational models** to deliver structured, context-aware research responses. This tool integrates **DuckDuckGo search** and **Wikipedia APIs** to retrieve, summarize, and synthesize information in real time. It leverages state-of-the-art transformer architectures and retrieval-augmented generation, with an option to persist outputs to a text file.  
+
 **Technologies used**: Python, LangChain, OpenAI API, DuckDuckGo Search, Wikipedia API.  
 
 [GitHub Link](https://github.com/asra020601/Agentic-AI-Neural-Logic-Engine)  
@@ -48,6 +49,7 @@ Developed an advanced Python-based research assistant that harnesses the power o
 
 ## RAG Vector LLM Powered FinQuery Engine  
 A hybrid RAG architecture combining **FAISS HNSW vector search**, **BM25Okapi keyword ranking**, and **Finance2 transformer embeddings** for semantic financial document analysis. Processes PDFs via **PyMuPDF** and **AlphaVantage API**, with **LangChain** text chunking and **Groq Llama3-70B** inference. Features GPU-accelerated embeddings, hierarchical **FAISS-BM25 search**, and real-time market data synthesis via **FastAPI**.  
+
 **Technologies used**: Python, FastAPI, PyMuPDF, FAISS, BM25Okapi, SentenceTransformers (Finance2 embeddings), Hugging Face Transformers, LangChain, Groq Llama3-70B, Alpha Vantage API, OpenAI API, RecursiveCharacterTextSplitter, NumPy, Torch, uvicorn, dotenv.  
 
 ---
