@@ -54,6 +54,7 @@ A hybrid RAG architecture combining **FAISS HNSW vector search**, **BM25Okapi ke
 
 ## No-Code AI Web Scraper with Summarization  
 A no-code AI tool that combines **LLM-powered web scraping**, **dynamic browser automation**, and **structured data summarization** into a user-friendly interface, enabling non-technical users to extract and analyze web content efficiently.
+
 **Technologies Used**: ScrapeGraphAI (LLMs + graph logic for structured data extraction), Hugging Face (Qwen2.5-72B-Instruct for AI-driven summarization), LangChain Community (context-aware pipelines), Gradio(no-code UI deployment), Playwright (dynamic browser automation), Python (backend processing), JSON/CSV (data formatting).  
 
 ---
