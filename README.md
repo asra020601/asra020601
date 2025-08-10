@@ -1,4 +1,4 @@
-![logo](.github/workflows/main.yml)
+![logo](https://github.com/asra020601/asra020601/blob/main/Asra%20Hussain.png)
 <h1 align="center">Hi 👋, I'm Asra Hussain</h1>
 <h3 align="center">Data Scientist </h3>
  
@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/mmuttalib1326" target="blank"><img src="https://img.shields.io/twitter/follow/mmuttalib1326?logo=twitter&style=for-the-badge" alt="mmuttalib1326" /></a> </p>
 
-- 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/mohdmuttalib)
+- 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/asrahussain)
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/mohdmuttalib](https://www.kaggle.com/mohdmuttalib)
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/asrahussain](https://www.kaggle.com/asrahussain)
 
-- 📫 How to reach me **muttalib1326@gmail.com**
+- 📫 How to reach me **asrahussain0206@gmail.com**
 
 - 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel | Google Analytics.*
 
@@ -27,13 +27,10 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://twitter.com/mmuttalib1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmuttalib1326" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-muttalib1326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-muttalib1326/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mohdmuttalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohdmuttalib" height="30" width="40" /></a>
-<a href="https://instagram.com/azmi_n_alig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azmi_n_alig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asra020601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asra020601/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/asrahussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohdmuttalib" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/muttalib1326" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/muttalib1326" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muttalib1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muttalib1326" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/muttalib1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/muttalib1326" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/muttalib1326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/muttalib1326/" height="30" width="40" /></a>
 </p>
 
