@@ -1,4 +1,4 @@
-![logo](https://github.com/asra020601/blob/main/1.png)
+![logo](.github/workflows/main.yml)
 <h1 align="center">Hi 👋, I'm Asra Hussain</h1>
 <h3 align="center">Data Scientist </h3>
  
