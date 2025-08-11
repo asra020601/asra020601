@@ -1,12 +1,12 @@
 ![logo](https://github.com/asra020601/asra020601/blob/main/Asra%20Hussain.png)
 <h1 align="center">Hi 👋, I'm Asra Hussain</h1>
-<h3 align="center">Data Scientist </h3>
+<h3 align="center"> AI/ML Engineer </h3>
  
  
 <p align="center">
   <!-- Typing SVG by MMuttalib1326 - https://github.com/MMuttalib1326/readme-typing-svg -->
   <a href="https://github.com/MMuttalib1326/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Exploring%20Generative%20AI%20and%20LLMs&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" />
 </p>
 <img align="right" alt="coding" width="350" src="https://github.com/asra020601/asra020601/blob/main/1_MjUN2C4TiR6dPIjitYOS6g.gif">
 
@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **asrahussain0206@gmail.com**
 
-- 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel *
+- 💬 Ask me about Generative AI, LLM fine-tuning, RAG systems, Machine Learning, Deep Learning, NLP, Python, FastAPI, PyTorch, TensorFlow, MLOps, and Data Visualization.
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -62,13 +63,11 @@
 <p>Stats: </p>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asra020601&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asra020601&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asra020601&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asra020601&theme=github&utcOffset=8)
 
 <div align="center">
   <picture>
