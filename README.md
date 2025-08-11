@@ -59,29 +59,25 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asra020601/asra020601/blob/main/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
-</p>Stats: </h3>
+<p>Stats: </p>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asra020601&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asra020601&theme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asra020601&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asra020601&theme=dark&utcOffset=8)
 
- 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width = "98%">
     <img src="profile-3d-contrib/profile-night-rainbow.svg" width = "98%"/>
   </picture>
-</div> 
+</div>
 
 ![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
-
-
- 
 <h2 align="center">🤝 Support</h2>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
@@ -91,5 +87,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 
 <h4 align="center">
-  <a href="https://mmuttalib1326.github.io/portfolio/" title="Portfolio">🔎 Show More 🔍</a>
+  <a href="https://asra020601.github.io/portfolio/" title="Portfolio">🔎 Show More 🔍</a>
 </h4>
