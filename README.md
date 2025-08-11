@@ -62,7 +62,7 @@
 <p>Stats: </p>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=dark)
@@ -72,12 +72,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width = "98%">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" width = "98%"/>
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" width = "98%">
+    <img src="profile-3d-contrib/profile-gitblock.svg" width = "98%"/>
   </picture>
 </div>
-
-![snake gif](https://github.com/MMuttalib1326/MMuttalib1326/blob/output/github-contribution-grid-snake.gif)
 <h2 align="center">🤝 Support</h2>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
