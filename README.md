@@ -60,7 +60,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asra020601/asra020601/blob/main/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
-<p>Stats: </p>
+<h3 align="left">Stats:</h3>
 <hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=github)
