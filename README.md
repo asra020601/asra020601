@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a FreeLancer MLOps Engineer for Multiple clients
 
-- 👨‍💻 You can check some of my projects at [https://www.kaggle.com/asrahussain](https://www.kaggle.com/asrahussain)
+- 👨‍💻 You can check some of my projects at [kaggle/asrahussain](https://www.kaggle.com/asrahussain)
 
 - 📫 How to reach me **asrahussain0206@gmail.com**
 
