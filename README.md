@@ -1,10 +1,7 @@
 ![logo](https://github.com/asra020601/asra020601/blob/main/Asra%20Hussain.png)
-<h1 align="center">Hi 👋, I'm Asra Hussain</h1>
-<h3 align="center"> AI/ML Engineer </h3>
-
  
 <p align="center">
-  <a href="https://github.com/MMuttalib1326/readme-typing-svg">
+  <a href="https://github.com/asra020601/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Exploring%20Generative%20AI%20and%20LLMs&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" />
 </p>
 <img align="right" alt="coding" width="350" src="https://github.com/asra020601/asra020601/blob/main/1_MjUN2C4TiR6dPIjitYOS6g.gif">
