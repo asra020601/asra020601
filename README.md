@@ -1,10 +1,9 @@
 ![logo](https://github.com/asra020601/asra020601/blob/main/Asra%20Hussain.png)
 <h1 align="center">Hi 👋, I'm Asra Hussain</h1>
 <h3 align="center"> AI/ML Engineer </h3>
- 
+
  
 <p align="center">
-  <!-- Typing SVG by MMuttalib1326 - https://github.com/MMuttalib1326/readme-typing-svg -->
   <a href="https://github.com/MMuttalib1326/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Exploring%20Generative%20AI%20and%20LLMs&font=Fira%20Code&center=true&width=940&height=65&color=f75c7e&vCenter=true&pause=1000&size=29" />
 </p>
@@ -13,15 +12,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asra020601&label=Profile%20views&color=0e75b6&style=flat" alt="asra020601" /> </p>
 
 
-- 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/asrahussain)
+- 🔭 I’m currently working as a FreeLancer MLOps Engineer for Multiple clients
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/asrahussain](https://www.kaggle.com/asrahussain)
+- 👨‍💻 You can check some of my projects at [https://www.kaggle.com/asrahussain](https://www.kaggle.com/asrahussain)
 
 - 📫 How to reach me **asrahussain0206@gmail.com**
 
 - 💬 Ask me about Generative AI, LLM fine-tuning, RAG systems, Machine Learning, Deep Learning, NLP, Python, FastAPI, PyTorch, TensorFlow, MLOps, and Data Visualization.
 
-
+ 
+# Analytics ⚙️
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asra020601?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
+   
+   
 
 <h3 align="left">Connect with me:</h3>
 <hr>
@@ -60,29 +63,3 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asra020601/asra020601/blob/main/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
-<h3 align="left">Stats:</h3>
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asra020601&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asra020601&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asra020601&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asra020601&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asra020601&theme=github&utcOffset=8)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" width = "98%">
-    <img src="profile-3d-contrib/profile-gitblock.svg" width = "98%"/>
-  </picture>
-</div>
-<h2 align="center">🤝 Support</h2>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
-
-<h4 align="center">
-  <a href="https://asra020601.github.io/portfolio/" title="Portfolio">🔎 Show More 🔍</a>
-</h4>
