@@ -19,7 +19,7 @@
 
  
 # Analytics ⚙️
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asra020601?cardType=github&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card)   
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asra020601?cardType=github&theme=monokai&preferLogin=false)]([https://git.io/awesome-stats-card](https://github.com/asra020601))   
 
 <h3 align="left">Connect with me:</h3>
 <hr>
